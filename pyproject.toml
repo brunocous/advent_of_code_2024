@@ -8,5 +8,6 @@ packages = [
     { include = "src" }
 ]
 dependencies = [
+    "numpy>=2.0.2",
     "polars>=1.16.0",
 ]
